@@ -1,1 +1,1 @@
-# Wedding-web
+Egy egyszerű esküvői weblap.
